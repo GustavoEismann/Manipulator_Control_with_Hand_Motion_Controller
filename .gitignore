@@ -1,0 +1,36 @@
+# ESP-IDF / ESP32 Controller
+controller/.vscode/
+controller/build/
+controller/sdkconfig.old
+controller/dependencies.lock
+controller/managed_components/
+
+# Python
+robot_interface/__pycache__/
+robot_interface/*.pyc
+robot_interface/*.pyo
+robot_interface/*.pyd
+robot_interface/.Python
+robot_interface/env/
+robot_interface/venv/
+robot_interface/.venv/
+robot_interface/*.egg-info/
+robot_interface/dist/
+robot_interface/build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
