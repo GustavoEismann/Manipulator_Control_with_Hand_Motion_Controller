@@ -383,7 +383,6 @@ Robot-Manipulator-with-ESP32-Motion-Controller/
 │
 ├── README.md                          # This file
 ├── LICENSE                            # MIT License
-├── TCCII - Gustavo Eismann Souza_v3_texto.pdf  # Full thesis document
 │
 ├── controller/                        # ESP32 Firmware (C/ESP-IDF)
 │   ├── CMakeLists.txt                # CMake build configuration
