@@ -20,7 +20,6 @@ A **real-time gesture-based robotic arm control system** that enables intuitive 
 - [Technical Details](#technical-details)
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
 - [Future Improvements](#future-improvements)
 - [Academic Context](#academic-context)
 - [License](#license)
